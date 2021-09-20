@@ -2,7 +2,7 @@ import DashboardLayout from 'Layouts/DashboardLayout'
 
 export default [
   {
-    path: '/guest',
+    path: '/bidder',
     element: <DashboardLayout />,
     children: [],
   },
